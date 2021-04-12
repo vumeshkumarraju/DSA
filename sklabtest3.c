@@ -32,7 +32,7 @@ float pop()
 int main()
 {
     printf("\t..........|| WELCOME ||............\n");
-    printf("\tTHE EVALUATION OF PREFIX EXPRESSION.\n");
+    printf("\tTHE EVALUATION OF POSTFIX EXPRESSION.\n");
     printf("Enter the expression :- ");
     scanf("%s",postexp);
     int ct=0;
