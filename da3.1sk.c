@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<ctype.h>
-
+//postfix
 int n=30,top=-1;
 char inexp[100],stack[100];
 void push(char x)
