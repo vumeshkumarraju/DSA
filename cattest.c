@@ -3,7 +3,7 @@ V UMESH KUMAR RAJU
 REG NO. :- 20MIS0187
 ...CAT1 LAB TEST...
 */
-
+//i am umesh.
 #include<stdio.h>
 #include<stdlib.h>
 #include<ctype.h>
